@@ -66,7 +66,7 @@ if ($sent_time && (time() - (int)$sent_time) < 3) {
     exit;
 }
 
-$baseUrl = 'https://www.okieweb.com/';
+$baseUrl = 'https://1.190.153.160.host.secureserver.net/';
 
 function generateSegment($length) {
     $chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
